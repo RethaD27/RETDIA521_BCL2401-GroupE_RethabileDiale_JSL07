@@ -33,6 +33,7 @@ document.addEventListener('DOMContentLoaded', function () {
       <h4>${courseName} Course</h4>
       <p>with legendary perseverance and world-class bad-assery for never giving up🏆</p>
         <img src="./logo.png" alt="Seal" style="margin-top: 20px; max-height: 100px;">
+        <p>${personalMessage}</p>
     `;
     
       //  Display the modal
