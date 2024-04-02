@@ -25,8 +25,10 @@ document.addEventListener('DOMContentLoaded', function () {
       }
   
       // 🚨 Generate certificate content dynamically
-      certificateContent. = `
+      certificateContent.innerHTML = `
       <h3>${studentName}</h3>
+      <P>${personalMessage}</p>
+      <h4>${courseName}</h4>
     `;
     
       //  Display the modal
