@@ -1,27 +1,11 @@
 # RETDIA521_BCL2401_BCL2401-GroupE_RethabileDiale_JSL07
 
-<<<<<<< HEAD
-
-
-=======
->>>>>>> d7a483a1e5b132933f33bcdf99c6a27e556552a3
 ## Project Title: Proud of Your Progress Cards
 
 ## Description:
 This project allows users to generate custom progress certificates for their students. The user can enter the student's name, a personalized message, and the course name. Once the user clicks the "Generate Certificate" button, a modal will appear displaying the generated certificate.
 
 ## Technologies Used:
-<<<<<<< HEAD
-HTML
-CSS
-JavaScript
-
-## How to Use:
-Open the index.html file in a web browser.
-Fill in the required fields: Student's Name, Personalized Message, and Course Name.
-Click on the "Generate Certificate" button.
-The generated certificate will be displayed in a modal.
-=======
 * HTML
 * CSS
 * JavaScript
@@ -31,7 +15,6 @@ The generated certificate will be displayed in a modal.
 * Fill in the required fields: Student's Name, Personalized Message, and Course Name.
 * Click on the "Generate Certificate" button.
 * The generated certificate will be displayed in a modal.
->>>>>>> d7a483a1e5b132933f33bcdf99c6a27e556552a3
 
 
 ## Reflection
@@ -43,8 +26,5 @@ Modal Implementation: Implementing a modal for displaying the generated certific
 
 Future Improvements: In future iterations, I could enhance the project by adding features such as custom styling options for the certificates, downloading the generated certificates as PDF files, and implementing form validation to ensure data integrity.
 
-<<<<<<< HEAD
+
 Overall, this project was a valuable learning experience and provided a foundation for further exploration of web development concepts and techniques.
-=======
-Overall, this project was a valuable learning experience and provided a foundation for further exploration of web development concepts and techniques.
->>>>>>> d7a483a1e5b132933f33bcdf99c6a27e556552a3
