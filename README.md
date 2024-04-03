@@ -6,15 +6,15 @@
 This project allows users to generate custom progress certificates for their students. The user can enter the student's name, a personalized message, and the course name. Once the user clicks the "Generate Certificate" button, a modal will appear displaying the generated certificate.
 
 ## Technologies Used:
-HTML
-CSS
-JavaScript
+*HTML
+*CSS
+*JavaScript
 
 ## How to Use:
-Open the index.html file in a web browser.
-Fill in the required fields: Student's Name, Personalized Message, and Course Name.
-Click on the "Generate Certificate" button.
-The generated certificate will be displayed in a modal.
+*Open the index.html file in a web browser.
+*Fill in the required fields: Student's Name, Personalized Message, and Course Name.
+*Click on the "Generate Certificate" button.
+*The generated certificate will be displayed in a modal.
 
 
 ## Reflection
